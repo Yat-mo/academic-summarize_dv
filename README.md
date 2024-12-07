@@ -33,10 +33,10 @@
 ### 1. 环境准备
 
 首先克隆项目到本地：
-\`\`\`bash
+```bash
 git clone [https://github.com/Yat-mo/academic-summarize_dv]
 cd academic-summarize_dv
-\`\`\`
+```
 
 ### 2. 配置虚拟环境
 
