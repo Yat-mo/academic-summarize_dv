@@ -34,7 +34,7 @@
 
 首先克隆项目到本地：
 \`\`\`bash
-git clone [项目地址]
+git clone [https://github.com/Yat-mo/academic-summarize_dv]
 cd academic-summarize_dv
 \`\`\`
 
