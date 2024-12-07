@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+openai
+python-dotenv
+langchain
+graphviz
+pandas
+tabulate 
